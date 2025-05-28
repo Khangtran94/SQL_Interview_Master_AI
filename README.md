@@ -20,30 +20,6 @@ This repository is organized into subdirectories, each representing a unique cha
 - **SQL Solution**: The SQL queries I crafted to solve the problem.
 - **Analysis**: Insights and explanations of the approach taken.
 
-## 🔍 Sample Challenges
-
-Here are some of the challenges I've tackled:
-
-### 1. **Facebook Marketplace Item Price Analysis**
-
-- **Description**: Analyzed pricing trends across different cities to identify regional pricing strategies.
-- **Key Concepts**: `JOIN`, `GROUP BY`, `HAVING`, aggregate functions.
-
-### 2. **Netflix Employee Retention and Satisfaction**
-
-- **Description**: Evaluated employee satisfaction scores to pinpoint areas for improvement in retention strategies.
-- **Key Concepts**: `AVG()`, `GROUP BY`, `ORDER BY`, filtering techniques.
-
-### 3. **Google Photos User Engagement**
-
-- **Description**: Assessed user interaction with automatic photo categorization features to enhance user experience.
-- **Key Concepts**: `COUNT()`, `DISTINCT`, `INNER JOIN`, subqueries.
-
-### 4. **Amazon Prime Video Content Performance**
-
-- **Description**: Measured content engagement across various genres to inform content acquisition strategies.
-- **Key Concepts**: `CASE WHEN`, `GROUP BY`, `ORDER BY`, conditional aggregation.
-
 ## 🛠️ Technologies Used
 
 - **Database**: SQLite
