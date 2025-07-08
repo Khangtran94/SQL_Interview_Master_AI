@@ -24,7 +24,7 @@ This repository is organized into subdirectories, each representing a unique cha
 
 - **Database**: PostgreSQL
 - **SQL Features**: Common Table Expressions (CTEs), Window Functions, Subqueries, Joins, Aggregations
-- **Tools**: Git, GitHub, SQLite Browser
+- **Tools**: Git, GitHub, PostgreSQL
 
 ## 🚀 Getting Started
 
